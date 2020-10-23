@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Surveyor</string>
-    <string name="support_email">support@rapidpro.io</string>
+    <string name="app_name">Datamoja</string>
+    <string name="support_email">support@datamoja.com</string>
 
     <!-- activity titles -->
     <string name="title_activity_login">Sign in</string>
@@ -66,9 +66,9 @@
     <string name="accuracy_meters">Accuracy: %d meters</string>
 
     <!-- preferences -->
-    <string name="pref_default_host">https://app.rapidpro.io</string>
-    <string name="pref_title_host">RapidPro Host</string>
-    <string name="pref_summary_host">The address for your RapidPro installation</string>
+    <string name="pref_default_host">https://datamoja.com</string>
+    <string name="pref_title_host">Datamoja Host</string>
+    <string name="pref_summary_host">The address for your Datamoja installation</string>
 
     <!-- miscellaneous -->
     <string name="yes">Yes</string>
